@@ -1,4 +1,6 @@
-# AI_cannibals_and_missionaries problem : The missionaries and cannibals problem, which is a famous problem in AI,  is usually stated as follows. Three missionaries and three cannibals are on one side of a river, along with a boat that can hold one or two people. Find a way to get everyone to the other side without ever leaving a group of missionaries in one place outnumbered by the cannibals in that place. 
+# AI_cannibals_and_missionaries problem 
+
+The missionaries and cannibals problem, which is a famous problem in AI,  is usually stated as follows. Three missionaries and three cannibals are on one side of a river, along with a boat that can hold one or two people. Find a way to get everyone to the other side without ever leaving a group of missionaries in one place outnumbered by the cannibals in that place. 
 
 In this assignment, your task is to do the problem formulation so it can be solved by searching, and do the computer implementation in order to experimentally compare the performance of the BFS and the DFS search strategy. For performance comparison, you may use time, number of nodes explored, number of nodes expanded, effective branching factor etc.
 
